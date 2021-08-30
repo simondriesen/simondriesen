@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/simondriesen/simondriesen/main/test.svg">
+<img src="https://raw.githubusercontent.com/simondriesen/simondriesen/main/map.svg">
