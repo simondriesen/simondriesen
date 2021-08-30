@@ -8,6 +8,9 @@
     .text {
       cursor: pointer;
     }
+    .text:hover {
+      color: red;
+    }
   </style>
   <foreignObject x="20" y="90" width="150" height="200">
     <div xmlns="http://www.w3.org/1999/xhtml">
