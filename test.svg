@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg-map">
   <style type="text/css">
     #svg-map {
-      max-height: 100vh;
-      max-width: 100vw;
-      fill: lightbrown;
+      height: 800px;
+      width: 1200px;
+      background: green;
     }
     .text {
       cursor: pointer;
@@ -11,10 +11,15 @@
     .text:hover {
       color: red;
     }
+    button {
+      position: absolute;
+      top: 0;
+      right: 0;
+    }
   </style>
-  <foreignObject width="150" height="200">
+  <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      fdgdfg
+      Welcome
       <p class="text">Text goes here</p>
       <button type="button">Click Me!</button>
     </div>
