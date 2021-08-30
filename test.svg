@@ -11,6 +11,7 @@
   </style>
   <foreignObject x="20" y="90" width="150" height="200">
     <span>
+      fdgdfg
       <p xmlns="http://www.w3.org/1999/xhtml" class="text">Text goes here</p>
       <button type="button">Click Me!</button>
     </span>
