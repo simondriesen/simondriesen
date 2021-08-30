@@ -3,7 +3,7 @@
     #svg-map {
       max-height: 100vh;
       max-width: 100vw;
-      fill: brown;
+      fill: lightbrown;
     }
     .text {
       cursor: pointer;
